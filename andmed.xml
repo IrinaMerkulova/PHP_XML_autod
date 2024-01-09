@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<autod>
+    <auto>
+        <autonumber>123ABC</autonumber>
+        <omanik>Merkulova</omanik>
+        <mark>Nissan</mark>
+        <v_aasta>2024</v_aasta>
+    </auto>
+    <auto>
+        <autonumber>125FFF</autonumber>
+        <omanik>Pant</omanik>
+        <mark>Opel</mark>
+        <v_aasta>2020</v_aasta>
+    </auto>
+    <auto>
+        <autonumber>569ABC</autonumber>
+        <omanik>Rattas</omanik>
+        <mark>BMW</mark>
+        <v_aasta>2020</v_aasta>
+    </auto>
+</autod>
